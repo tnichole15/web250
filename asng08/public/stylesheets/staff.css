@@ -1,0 +1,16 @@
+#new-bird-button {
+  background-color: lightgray;
+  margin-top: 5rem;
+  padding: 3px;
+  border: lightgray solid 1px;
+  position: relative;
+  top: 26px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+#new-bird-button:hover {
+  color: white;
+  background-color: black;
+}
